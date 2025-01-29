@@ -5,9 +5,9 @@ Die Symbole sind an die DIN ISO 1219:2012,  ISO 10628-2 und ANSI/ISA-5.1-2009  a
 
 ## Shape spec
 
-* Basic grid: 100 x 100
-* Sub grid: 50 x 50 (Outlines of all shapes must fit this grid)
-* Minimal connector pitch: 25 x 25
+* Basic grid: 100 x 100 pt
+* Sub grid: 50 x 50 pt (Outlines of all shapes must fit this grid)
+* Minimal connector pitch: 25 x 25 pt
 
 ## Symbol overview
 
